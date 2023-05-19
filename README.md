@@ -11,7 +11,7 @@ Esse projeto usa algumas ferramentas para o seu desenvolvimento:
 - [Dart](https://dart.dev/)
 - [Flutter](https://docs.flutter.dev/get-started/install)
 
-### ✔️ Instalando e executando
+### 🖱️ Instalando e executando
 Baixe o repositório e entre nele
 
     git clone (https://github.com/GenilsonJunior99006/Cozinha_Pratica.git)
@@ -24,21 +24,20 @@ Agora você pode executar o aplicativo no seu dispositivo Android ou iOS, ou em 
 
     flutter run
 
-## 🤝 Como contribuir para o projeto
+## 🧠 Como contribuir para o projeto
 
 O aplicativo ainda está em desenvlvimento, caso queira contribuir de alguma forma, basta entrar em contato.
 
 
-
-## 👨‍💻 Desenvolvedores
+## 👨 Desenvolvedores
 
 <table>
 	<tr>
         <td align="center"><a href="https://github.com/GenilsonJunior99006"><img src="https://avatars.githubusercontent.com/u/61212256?v=4" width="100px;" alt=""/><br /><sub><b>Genilson Junior </b></sub></a><br /><a href="https://github.com/GenilsonJunior99006"></a></td>
+	<td align="center"><a href="https://github.com/GenilsonJunior99006"><img src="https://avatars.githubusercontent.com/u/61212256?v=4" width="100px;" alt=""/><br /><sub><b>Genilson Junior </b></sub></a><br /><a href="(https://github.com/rsenacarvalho)"></a></td>
 	</tr>
 </table>
 
 ## 📝 Licença
-Este projeto está licenciado sob os termos da licença 
-[MIT](./LICENSE).
+...
 
