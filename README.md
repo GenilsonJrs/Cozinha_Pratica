@@ -14,7 +14,7 @@ Esse projeto usa algumas ferramentas para o seu desenvolvimento:
 ### 🖱️ Instalando e executando
 Baixe o repositório e entre nele
 
-    git clone (https://github.com/GenilsonJunior99006/Cozinha_Pratica.git)
+    git clone (https://github.com/GenilsonJrs/Cozinha_Pratica.git)
 
 Em seguida é preciso baixar as dependências do aplicativo
 
@@ -33,7 +33,7 @@ O aplicativo ainda está em desenvlvimento, caso queira contribuir de alguma for
 
 <table>
 	<tr>
-        <td align="center"><a href="https://github.com/GenilsonJunior99006"><img src="https://avatars.githubusercontent.com/u/61212256?v=4" width="100px;" alt=""/><br /><sub><b>Genilson Junior </b></sub></a><br /><a href="https://github.com/GenilsonJunior99006"></a></td>
+        <td align="center"><a href="https://github.com/GenilsonJrs"><img src="https://avatars.githubusercontent.com/u/61212256?v=4" width="100px;" alt=""/><br /><sub><b>Genilson Junior </b></sub></a><br /><a href="https://github.com/GenilsonJrs"></a></td>
 	<td align="center"><a href="https://github.com/rsenacarvalho"><img src="https://avatars.githubusercontent.com/u/59293571?v=4" width="100px;" alt=""/><br /><sub><b>Ricardo Sena </b></sub></a><br /><a href="(https://github.com/rsenacarvalho)"></a></td>
 	</tr>
 </table>
